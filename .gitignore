@@ -1,0 +1,5 @@
+*.exe
+*.o
+decrypted.txt
+cipher.txt
+result.txt
